@@ -1,0 +1,20 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+venv/
+env/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Editor configurations
+.vscode/
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
