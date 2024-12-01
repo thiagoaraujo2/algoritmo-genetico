@@ -71,13 +71,3 @@ Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 4. **Como Rodar o Projeto:** Um passo a passo claro para que outras pessoas consigam rodar o código em suas máquinas locais.
 5. **Como Contribuir:** Instruções para quem quiser contribuir com o projeto.
 6. **Licença:** Informações sobre a licença, como a MIT, para garantir o uso adequado do código.
-
-### Adicionando o README
-
-1. Crie um arquivo chamado `README.md` na raiz do seu projeto.
-2. Copie e cole o conteúdo acima.
-3. Faça o commit do arquivo no Git:
-
-git add README.md
-git commit -m "Adicionando README ao projeto"
-git push origin master
